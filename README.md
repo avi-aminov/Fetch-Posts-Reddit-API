@@ -2,10 +2,10 @@
 
 <h1>Displays posts from reddit's API</h1>
 <p>
-Very simle example Displays posts from reddit's API,
+Very simple example for displays posts from reddit API
 </p>
 
-used async/await method
+<h4>Used async / await method</h4>
 
 <h3>Installing</h3>
 
@@ -17,6 +17,7 @@ git clone https://github.com/avi-aminov/Fetch-Posts-Reddit-API.git
 </code>
 </pre>
 
+and just run on browser
 
 <p>Screenshots</p>
 
