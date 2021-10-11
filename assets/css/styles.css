@@ -29,6 +29,11 @@
 p{
     padding: 0;
     margin: 7px 0px;
+    color: #1f1f1f;
+}
+
+p>span{
+    font-weight: 800;
 }
 
 .card{

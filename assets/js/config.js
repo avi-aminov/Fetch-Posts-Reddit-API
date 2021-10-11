@@ -1,3 +1,4 @@
+// config with default value
 const config = {
     param : 'askreddit',
     showPosts : 4,

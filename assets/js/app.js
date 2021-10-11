@@ -86,9 +86,9 @@ var App = (() => {
                     <img src="${thumbnail}" alt=""/>
                 </div>
                 <div class="details">
-                    <p>Author: ${author}</p>
-                    <p>upvote ratio: ${votes}</span>
-                    <p>Created date: ${Helper.convertTimeStempToDateTime(datetime)}</span>
+                    <p><span>Author:</span> ${author}</p>
+                    <p><span>upvote ratio:</span> ${votes}</p>
+                    <p><span>Created date:</span> ${Helper.convertTimeStempToDateTime(datetime)}</p>
                 </div>
             <div>
         `;

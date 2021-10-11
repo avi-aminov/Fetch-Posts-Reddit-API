@@ -1,6 +1,6 @@
 # Fetch-Posts-Reddit-API
 
-<h1>Displays posts from reddit's API</h1>
+<h1>Displays posts from reddit API</h1>
 <p>
 Very simple example for displays posts from reddit API
 </p>
