@@ -26,6 +26,11 @@
     100% { transform: rotate(360deg); }
 }
 
+p{
+    padding: 0;
+    margin: 7px 0px;
+}
+
 .card{
     background: #e2dada;
 }
@@ -42,7 +47,7 @@
 }
 
 .icon{
-    max-width: 200px;
+    max-width: 100px;
 }
 
 img{
